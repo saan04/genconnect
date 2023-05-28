@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "585848354252",
+    "project_id": "genconnect-eafe5",
+    "storage_bucket": "genconnect-eafe5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585848354252:android:426a61498922bbb26fd969",
+        "android_client_info": {
+          "package_name": "com.flutterflow.homeU"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585848354252-iio7ehgqucgafen8mobedptf99fbruf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5nW16BTvNCKj-mj6v1cZmO9uLzPPq5j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585848354252-iio7ehgqucgafen8mobedptf99fbruf8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "585848354252-7kidqg9a0mn0pp2s1s4vjahdbniurefu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.homeU"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
